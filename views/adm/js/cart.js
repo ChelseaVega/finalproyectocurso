@@ -51,7 +51,6 @@ function cargarEventListener() {
   //cuando haga click al boton de agregar al carrito voy a llamar a la funcion de agregarCurso
   listaCursos.addEventListener("click", agregarCurso);
 
-  
 
   vaciarCarritoBtn.addEventListener("click", () => {
     articulosCarrito = [];
