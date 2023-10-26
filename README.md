@@ -10,7 +10,7 @@ A través del enlace URL nos encontraremos con la pagina principal del restauran
 **ADMINISTRACIÓN O MANEJO DE USUARIOS **
 Este proyecto contiene dos tipos de usuarios: el usuario administrador y el usuario regular (clientes ). 
 Para poder ingresar al usuario administrador estos son sus datos 
-**Usuaario: Migelp"
+**Usuaario: "perniapma.usm@gmial.com"
 Clave : "29965197" **
 Posteriormente a esto, el usuario administrador se dirige a una página similar al del usuario regular; solo con la excepción de que este podrá modificar , eliminar y agregar cualquier cosa que desee. 
 
